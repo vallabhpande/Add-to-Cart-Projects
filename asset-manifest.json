@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Add-to-Cart-Projects/static/css/main.6c285abc.css",
+    "main.js": "/Add-to-Cart-Projects/static/js/main.53aff49a.js",
+    "static/media/logo.svg": "/Add-to-Cart-Projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Add-to-Cart-Projects/index.html",
+    "main.6c285abc.css.map": "/Add-to-Cart-Projects/static/css/main.6c285abc.css.map",
+    "main.53aff49a.js.map": "/Add-to-Cart-Projects/static/js/main.53aff49a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c285abc.css",
+    "static/js/main.53aff49a.js"
+  ]
+}
